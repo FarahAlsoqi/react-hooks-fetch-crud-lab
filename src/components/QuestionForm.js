@@ -34,7 +34,7 @@ function QuestionForm(props) {
           formData.answer4,
         ],
         correctIndex: parseInt(formData.correctIndex),
-      }),
+      })
     });
   }
 
